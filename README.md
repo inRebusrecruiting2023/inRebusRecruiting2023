@@ -13,7 +13,7 @@ Rapidamente, quella che era una scommessa, si è trasformata in un gruppo di lav
  
 Nel dicembre 2020 inRebus Technologies è entrata a far parte di FOS S.p.A., PMI genovese di consulenza e ricerca tecnologica, quotata al segmento Euronext Growth Milan di Borsa Italiana S.p.A., attiva nella progettazione e nello sviluppo di servizi e prodotti digitali per grandi gruppi industriali e per la pubblica amministrazione. 
 
-SOFTWARE FACTORY to design and implement digital data driven solutions:
+# SOFTWARE FACTORY to design and implement digital data driven solutions:
 - Software Architecture Design
 - Responsive Web App
 - Mobile Applications
@@ -25,7 +25,7 @@ SOFTWARE FACTORY to design and implement digital data driven solutions:
 - Business Data Dashboard
 
 
-DIGITAL LEARNING
+# DIGITAL LEARNING
 to design and provide customized
 digital learning solutions:
 - Commercial and technical training
