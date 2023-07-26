@@ -46,7 +46,7 @@ digital learning solutions:
 - [LinkedIn](https://www.linkedin.com/company/inrebus-s.r.l./about/)
 
 ## Tech stack
-
+Java, Ionic, .Net, .Net Core, .Net framework, Angular2+, PHP, Moodle
 
 ## 💻Lavora con noi💻
 
