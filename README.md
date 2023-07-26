@@ -1,4 +1,4 @@
-![InRebutechnologies Logo](https://avatars.githubusercontent.com/u/140599854?v=4)
+![InRebutechnologies Logo]
 
 # inRebus srl (Gruppo FOS)
 #Servizi IT e consulenza IT Torino, TO
