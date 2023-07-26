@@ -40,9 +40,9 @@ digital learning solutions:
 - Custom LMS development
 
 # Seguici su
-- [InRebus Technologies](https://www.inrebus.it/)
+- [![Website](https://www.inrebus.it/)
 - [InRebus Digital Learning](http://www.inrebus.education/)
-- [LinkedIn](https://www.linkedin.com/company/inrebus-s.r.l./about/)
+ [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/inrebus-s.r.l./about/)
 
 # Tech stack
 Java, Ionic, .Net, .Net Core, .Net framework, Angular2+, PHP, Moodle
