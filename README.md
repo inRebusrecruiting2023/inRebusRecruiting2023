@@ -1,7 +1,7 @@
 
 
 # inRebus srl (Gruppo FOS)
-#Servizi IT e consulenza IT Torino, TO
+Servizi IT e consulenza IT Torino, TO
 
 # [RE]SHAPING YOUR DIGITAL WORLD | SPICY DIGITAL LEARNING OUTSIDE THE BOX
 
