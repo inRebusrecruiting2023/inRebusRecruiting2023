@@ -5,7 +5,7 @@
 
 # [RE]SHAPING YOUR DIGITAL WORLD | SPICY DIGITAL LEARNING OUTSIDE THE BOX
 
-## :information_source: About us
+## :information_source: Chi siamo
 inRebus Technologies nasce a Torino nel 2003 come software house e consulting company: l’azienda prosegue un cammino nel settore informatico che risale ai primi anni '90 e che tutt’ora la vede impegnata in rilevanti attività di sviluppo software e di prodotti di assistenza remota (SKITE), nonché nella fornitura di personale qualificato in consulenza presso i nostri clienti.
  
 Pensare fuori dagli schemi utilizzando un approccio moderno alla formazione: per questo motivo, nel 2013 è nata l’idea di creare una business line dedicata alla formazione digitale: inRebus Digital Learning
@@ -47,7 +47,7 @@ digital learning solutions:
 [LinkedIn](https://www.linkedin.com/company/inrebus-s.r.l./about/)
 
 
-## :technologist: Become a part of the team
+## :technologist: Lavora con noi
 - [Sviluppatore/Sviluppatrice PHP](https://www.iprogrammatori.it/lavoro/ricerca_sviluppatore-sviluppatrice-php-torino_152316.aspx)
 - [Devops Engineer](https://www.iprogrammatori.it/lavoro/ricerca_devops-engineer-roma_152366.aspx)
 - [Analista funzionale monitoraggio function point](https://www.iprogrammatori.it/lavoro/ricerca_analista-funzionale-roma_152677.aspx)
