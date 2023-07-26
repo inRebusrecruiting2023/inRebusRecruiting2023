@@ -39,15 +39,15 @@ digital learning solutions:
 - Assessment tools design
 - Custom LMS development
 
-## Seguici su
+# Seguici su
 - [InRebus Technologies](https://www.inrebus.it/)
 - [InRebus Digital Learning](http://www.inrebus.education/)
 - [LinkedIn](https://www.linkedin.com/company/inrebus-s.r.l./about/)
 
-## Tech stack
+# Tech stack
 Java, Ionic, .Net, .Net Core, .Net framework, Angular2+, PHP, Moodle
 
-## 💻Lavora con noi💻
+# Lavora con noi
 - [Sviluppatore/Sviluppatrice PHP](https://www.iprogrammatori.it/lavoro/ricerca_sviluppatore-sviluppatrice-php-torino_152316.aspx)
 - [Devops Engineer](https://www.iprogrammatori.it/lavoro/ricerca_devops-engineer-roma_152366.aspx)
 - [Analista funzionale monitoraggio function point](https://www.iprogrammatori.it/lavoro/ricerca_analista-funzionale-roma_152677.aspx)
