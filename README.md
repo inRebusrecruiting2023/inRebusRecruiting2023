@@ -47,6 +47,11 @@ digital learning solutions:
 Java, Ionic, .Net, .Net Core, .Net framework, Angular2+, PHP, Moodle
 
 # Lavora con noi
+
+# Candidature spontanee
+hrm@inrebus.it
+
+# Posizioni aperte
 - [Sviluppatore/Sviluppatrice PHP](https://www.iprogrammatori.it/lavoro/ricerca_sviluppatore-sviluppatrice-php-torino_152316.aspx)
 - [Devops Engineer](https://www.iprogrammatori.it/lavoro/ricerca_devops-engineer-roma_152366.aspx)
 - [Analista funzionale monitoraggio function point](https://www.iprogrammatori.it/lavoro/ricerca_analista-funzionale-roma_152677.aspx)
