@@ -13,8 +13,7 @@ Rapidamente, quella che era una scommessa, si è trasformata in un gruppo di lav
  
 Nel dicembre 2020 inRebus Technologies è entrata a far parte di FOS S.p.A., PMI genovese di consulenza e ricerca tecnologica, quotata al segmento Euronext Growth Milan di Borsa Italiana S.p.A., attiva nella progettazione e nello sviluppo di servizi e prodotti digitali per grandi gruppi industriali e per la pubblica amministrazione. 
 
-
-# <details><summary>SOFTWARE FACTORY</summary>to design and implement digital data driven solutions Software Architecture, Design Responsive Web App Mobile, Applications Advanced CMS, CRM Integration Remote Technical Assistance solutions, ERP software applications, DWH design and implementation,Business Data Dashboard
+# <details> <summary>SOFTWARE FACTORY</summary>to design and implement digital data driven solutions Software Architecture, Design Responsive Web App Mobile, Applications Advanced CMS, CRM Integration Remote Technical Assistance solutions, ERP software applications, DWH design and implementation,Business Data Dashboard
 
 # <details> <summary>DIGITAL LEARNING</summary>to design and provide customized digital learning solutions: Commercial and technical training, Mandatory corporate training, Product launch support, Video-lessons and teasers, Interactive video tutorial, Smart Video, Blended training projects, Learning gamification design, Assessment tools design, Custom LMS development
 
