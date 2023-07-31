@@ -1,7 +1,8 @@
 ![InRebus Technologies](https://github.com/InRebusRecruiting2023/inRebusRecruiting2023/blob/dd3015dce4f0b4370b8f417979a8996fb57b0f0b/linkedin%20copertina.png) 
 
 # inRebus srl (Gruppo FOS)
-Servizi IT e consulenza IT Torino, TO
+💻Servizi IT e consulenza IT💻 
+🏢Torino, TO
 
 # [RE]SHAPING YOUR DIGITAL WORLD | SPICY DIGITAL LEARNING OUTSIDE THE BOX
 
