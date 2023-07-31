@@ -52,7 +52,6 @@ digital learning solutions:
 ![Moodle](https://img.shields.io/badge/Moodle-FF9900?style=for-the-badge&logo=moodle&logoColor=white)
 
 # Lavora con noi
-
 [![Email](https://img.shields.io/badge/hrm@inrebus.it-ffa500.svg?style=for-the-badge&logo=gmail&logoColor=black)](hrm@inrebus.it)
 
 # Posizioni aperte
