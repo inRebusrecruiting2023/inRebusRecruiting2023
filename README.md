@@ -17,22 +17,23 @@ Nel dicembre 2020 inRebus Technologies è entrata a far parte di FOS S.p.A., PMI
 # SOFTWARE FACTORY
 to design and implement digital data driven solutions Software Architecture, Design Responsive Web App Mobile, Applications Advanced CMS, CRM Integration Remote Technical Assistance solutions, ERP software applications, DWH design and implementation,Business Data Dashboard
 
-# DIGITAL LEARNING
-to design and provide customized digital learning solutions: Commercial and technical training, Mandatory corporate training, Product launch support, Video-lessons and teasers, Interactive video tutorial, Smart Video, Blended training projects, Learning gamification design, Assessment tools design, Custom LMS development
 
-# Seguici su
-[![inRebus Technologies](https://img.shields.io/badge/Website-ffa500.svg?style=for-the-badge&logo=readthedocs&logoColor=black)](https://www.inrebus.it/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/inrebus-s.r.l./about/)
-
-# Tech stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Ionic Framework](https://img.shields.io/badge/Ionic_Framework-3880FF?style=for-the-badge&logo=ionic&logoColor=white)`
-![Moodle](https://img.shields.io/badge/Moodle-FF9900?style=for-the-badge&logo=moodle&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+# DIGITAL LEARNING
+to design and provide customized digital learning solutions: Commercial and technical training, Mandatory corporate training, Product launch support, Video-lessons and teasers, Interactive video tutorial, Smart Video, Blended training projects, Learning gamification design, Assessment tools design, Custom LMS development
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Moodle](https://img.shields.io/badge/Moodle-FF9900?style=for-the-badge&logo=moodle&logoColor=white)
+
+# Seguici su
+[![inRebus Technologies](https://img.shields.io/badge/Website-ffa500.svg?style=for-the-badge&logo=readthedocs&logoColor=black)](https://www.inrebus.it/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/inrebus-s.r.l./about/)
 
 # Lavora con noi
 [![Email](https://img.shields.io/badge/hrm@inrebus.it-ffa500.svg?style=for-the-badge&logo=gmail&logoColor=black)](hrm@inrebus.it)
