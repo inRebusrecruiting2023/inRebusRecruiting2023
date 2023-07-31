@@ -44,12 +44,16 @@ digital learning solutions:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/inrebus-s.r.l./about/)
 
 # Tech stack
-Java, Ionic, .Net, .Net Core, .Net framework, Angular2+, PHP, Moodle
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Ionic Framework](https://img.shields.io/badge/Ionic_Framework-3880FF?style=for-the-badge&logo=ionic&logoColor=white)`
+![Moodle](https://img.shields.io/badge/Moodle-FF9900?style=for-the-badge&logo=moodle&logoColor=white)
 
 # Lavora con noi
 
-# Candidature spontanee
-hrm@inrebus.it
+[![Email](https://img.shields.io/badge/hrm@inrebus.it-ffa500.svg?style=for-the-badge&logo=gmail&logoColor=black)](hrm@inrebus.it)
 
 # Posizioni aperte
 - [Sviluppatore/Sviluppatrice PHP](https://www.iprogrammatori.it/lavoro/ricerca_sviluppatore-sviluppatrice-php-torino_152316.aspx)
