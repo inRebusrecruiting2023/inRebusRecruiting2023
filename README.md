@@ -16,20 +16,31 @@ Nel dicembre 2020 inRebus Technologies è entrata a far parte di FOS S.p.A., PMI
 
 # SOFTWARE FACTORY
 to design and implement digital data driven solutions Software Architecture, Design Responsive Web App Mobile, Applications Advanced CMS, CRM Integration Remote Technical Assistance solutions, ERP software applications, DWH design and implementation,Business Data Dashboard
-
-# DIGITAL LEARNING
-to design and provide customized digital learning solutions: Commercial and technical training, Mandatory corporate training, Product launch support, Video-lessons and teasers, Interactive video tutorial, Smart Video, Blended training projects, Learning gamification design, Assessment tools design, Custom LMS development
-
-# Tech Stack
-
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Ionic Framework](https://img.shields.io/badge/Ionic_Framework-3880FF?style=for-the-badge&logo=ionic&logoColor=white)`
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+# DIGITAL LEARNING
+to design and provide customized digital learning solutions: Commercial and technical training, Mandatory corporate training, Product launch support, Video-lessons and teasers, Interactive video tutorial, Smart Video, Blended training projects, Learning gamification design, Assessment tools design, Custom LMS development
+
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Moodle](https://img.shields.io/badge/Moodle-FF9900?style=for-the-badge&logo=moodle&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 
 # Seguici su
 [![inRebus Technologies](https://img.shields.io/badge/Website-ffa500.svg?style=for-the-badge&logo=readthedocs&logoColor=black)](https://www.inrebus.it/)
