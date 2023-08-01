@@ -16,6 +16,7 @@ Nel dicembre 2020 inRebus Technologies è entrata a far parte di FOS S.p.A., PMI
 
 # SOFTWARE FACTORY
 to design and implement digital data driven solutions Software Architecture, Design Responsive Web App Mobile, Applications Advanced CMS, CRM Integration Remote Technical Assistance solutions, ERP software applications, DWH design and implementation,Business Data Dashboard
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
