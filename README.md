@@ -41,7 +41,8 @@ to design and provide customized digital learning solutions: Commercial and tech
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
+![Articulate Storyline](https://img.shields.io/badge/Articulate%20Storyline-360-blue)
+![iSpring Designer](https://img.shields.io/badge/iSpring%20Designer-11-orange)
 
 # Seguici su
 [![inRebus Technologies](https://img.shields.io/badge/Website-ffa500.svg?style=for-the-badge&logo=readthedocs&logoColor=black)](https://www.inrebus.it/)
