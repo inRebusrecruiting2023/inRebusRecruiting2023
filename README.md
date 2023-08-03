@@ -32,17 +32,21 @@ to design and implement digital data driven solutions Software Architecture, Des
 # DIGITAL LEARNING
 to design and provide customized digital learning solutions: Commercial and technical training, Mandatory corporate training, Product launch support, Video-lessons and teasers, Interactive video tutorial, Smart Video, Blended training projects, Learning gamification design, Assessment tools design, Custom LMS development
 
+![Articulate Storyline](https://img.shields.io/badge/Articulate%20Storyline-360-blue)
+![iSpring Designer](https://img.shields.io/badge/iSpring%20Designer-11-orange)
+
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Moodle](https://img.shields.io/badge/Moodle-FF9900?style=for-the-badge&logo=moodle&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Articulate Storyline](https://img.shields.io/badge/Articulate%20Storyline-360-blue)
-![iSpring Designer](https://img.shields.io/badge/iSpring%20Designer-11-orange)
+
+
 
 # Seguici su
 [![inRebus Technologies](https://img.shields.io/badge/Website-ffa500.svg?style=for-the-badge&logo=readthedocs&logoColor=black)](https://www.inrebus.it/)
