@@ -57,4 +57,5 @@ to design and provide customized digital learning solutions: Commercial and tech
 
 # Posizioni aperte
 - [Sviluppatore/Sviluppatrice PHP](https://www.iprogrammatori.it/lavoro/ricerca_sviluppatore-sviluppatrice-php-torino_152316.aspx)
+- [Sviluppatore full stack Middle/Senior](https://www.iprogrammatori.it/lavoro/ricerca_sviluppatore-full-stack-middle-senior-roma_151176.aspx)
 
