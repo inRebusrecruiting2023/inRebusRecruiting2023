@@ -59,4 +59,6 @@ to design and provide customized digital learning solutions: Commercial and tech
 - [Sviluppatore/Sviluppatrice PHP](https://www.iprogrammatori.it/lavoro/ricerca_sviluppatore-sviluppatrice-php-torino_152316.aspx)
 - [Sviluppatore full stack Middle/Senior](https://www.iprogrammatori.it/lavoro/ricerca_sviluppatore-full-stack-middle-senior-roma_151176.aspx)
 - [Sviluppatore Back end Senior/Team Leader](https://www.iprogrammatori.it/lavoro/ricerca_sviluppatore-back-end-senior-team-leader-roma_152974.aspx)
+- [Sistemista Linux/Ubuntu](https://it.indeed.com/job/sistemista-linuxubuntu-7270277e600447c1?_gl=1*chxbpw*_gcl_au*MTM0MzAwNzc3Mi4xNjkyNjAwOTI2)
+- [Sviluppatore PHP](https://www.iprogrammatori.it/lavoro/ricerca_sviluppatore-php-varese_151173.aspx)
 
