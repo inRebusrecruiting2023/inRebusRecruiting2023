@@ -61,4 +61,5 @@ to design and provide customized digital learning solutions: Commercial and tech
 - [Sviluppatore Back end Senior/Team Leader](https://www.iprogrammatori.it/lavoro/ricerca_sviluppatore-back-end-senior-team-leader-roma_152974.aspx)
 - [Sistemista Linux/Ubuntu](https://it.indeed.com/job/sistemista-linuxubuntu-7270277e600447c1?_gl=1*chxbpw*_gcl_au*MTM0MzAwNzc3Mi4xNjkyNjAwOTI2)
 - [Sviluppatore PHP](https://www.iprogrammatori.it/lavoro/ricerca_sviluppatore-php-varese_151173.aspx)
+- [Analista funzionale](https://www.iprogrammatori.it/lavoro/ricerca_analista-funzionale-roma_152677.aspx)
 
