@@ -56,6 +56,7 @@ to design and provide customized digital learning solutions: Commercial and tech
 [![Email](https://img.shields.io/badge/hrm@inrebus.it-ffa500.svg?style=for-the-badge&logo=gmail&logoColor=black)](hrm@inrebus.it)
 
 # Posizioni aperte
+- [Sistemista senior postgreesql](https://www.iprogrammatori.it/lavoro/ricerca_sistemista-senior-postgresql-roma_153233.aspx)
 - [Sviluppatore/Sviluppatrice .NET-Angular](https://www.linkedin.com/jobs/view/3712066028/?refId=zDZ%2BJ9wTy4R%2FlBBJBpqaHw%3D%3D&trackingId=zDZ%2BJ9wTy4R%2FlBBJBpqaHw%3D%3D)
 - [Sviluppatore/Sviluppatrice PHP](https://www.iprogrammatori.it/lavoro/ricerca_sviluppatore-sviluppatrice-php-torino_152316.aspx)
 - [Sviluppatore/Sviluppatrice full stack Middle/Senior](https://www.iprogrammatori.it/lavoro/ricerca_sviluppatore-full-stack-middle-senior-roma_151176.aspx)
