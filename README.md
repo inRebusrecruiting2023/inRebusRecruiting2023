@@ -57,11 +57,10 @@ to design and provide customized digital learning solutions: Commercial and tech
 
 # Posizioni aperte
 - [Sistemista senior postgreesql](https://www.iprogrammatori.it/lavoro/ricerca_sistemista-senior-postgresql-roma_153233.aspx)
-- [Sviluppatore/Sviluppatrice .NET-Angular](https://www.linkedin.com/jobs/view/3712066028/?refId=zDZ%2BJ9wTy4R%2FlBBJBpqaHw%3D%3D&trackingId=zDZ%2BJ9wTy4R%2FlBBJBpqaHw%3D%3D)
+- [Sviluppatore Angular](https://www.linkedin.com/jobs/view/3720549112/)
 - [Sviluppatore/Sviluppatrice PHP](https://www.iprogrammatori.it/lavoro/ricerca_sviluppatore-sviluppatrice-php-torino_152316.aspx)
 - [Sviluppatore/Sviluppatrice full stack Middle/Senior](https://www.iprogrammatori.it/lavoro/ricerca_sviluppatore-full-stack-middle-senior-roma_151176.aspx)
-- [Sviluppatore Back end Senior/Team Leader](https://www.iprogrammatori.it/lavoro/ricerca_sviluppatore-back-end-senior-team-leader-roma_152974.aspx)
 - [Sistemista Linux/Ubuntu](https://it.indeed.com/job/sistemista-linuxubuntu-7270277e600447c1?_gl=1*chxbpw*_gcl_au*MTM0MzAwNzc3Mi4xNjkyNjAwOTI2)
 - [Sviluppatore/Sviluppatrice PHP](https://www.iprogrammatori.it/lavoro/ricerca_sviluppatore-php-varese_151173.aspx)
-- [Analista funzionale](https://www.iprogrammatori.it/lavoro/ricerca_analista-funzionale-roma_152677.aspx)
+
 
