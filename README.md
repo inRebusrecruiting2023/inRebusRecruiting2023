@@ -56,11 +56,10 @@ to design and provide customized digital learning solutions: Commercial and tech
 [![Email](https://img.shields.io/badge/hrm@inrebus.it-ffa500.svg?style=for-the-badge&logo=gmail&logoColor=black)](hrm@inrebus.it)
 
 # Posizioni aperte
-- [Sistemista senior postgreesql](https://www.iprogrammatori.it/lavoro/ricerca_sistemista-senior-postgresql-roma_153233.aspx)
+- [Technology Evolution Senior](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.iprogrammatori.it%2Flavoro%2Fricerca_technology-evolution-senior-roma_153457.aspx)
+- [Sistemista Jboss](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.iprogrammatori.it%2Flavoro%2Fricerca_sistemista-jboss-roma_153300.aspx)
 - [Sviluppatore Angular](https://www.linkedin.com/jobs/view/3720549112/)
 - [Sviluppatore/Sviluppatrice PHP](https://www.iprogrammatori.it/lavoro/ricerca_sviluppatore-sviluppatrice-php-torino_152316.aspx)
-- [Sviluppatore/Sviluppatrice full stack Middle/Senior](https://www.iprogrammatori.it/lavoro/ricerca_sviluppatore-full-stack-middle-senior-roma_151176.aspx)
-- [Sistemista Linux/Ubuntu](https://it.indeed.com/job/sistemista-linuxubuntu-7270277e600447c1?_gl=1*chxbpw*_gcl_au*MTM0MzAwNzc3Mi4xNjkyNjAwOTI2)
-- [Sviluppatore/Sviluppatrice PHP](https://www.iprogrammatori.it/lavoro/ricerca_sviluppatore-php-varese_151173.aspx)
+  
 
 
