@@ -1,4 +1,4 @@
-![InRebus Technologies](https://github.com/InRebusRecruiting2023/inRebusRecruiting2023/blob/dd3015dce4f0b4370b8f417979a8996fb57b0f0b/linkedin%20copertina.png) 
+![InRebus Technologies](https://github.com/InRebusRecruiting2023/inRebusRecruiting2023/blob/5f1e831bb58dacf79f14cf18beb04d2bdfe0eae4/inRebus_copertina_linkedin%20(002).png) 
 
 # inRebus srl (Gruppo FOS)
 💻Servizi IT e consulenza IT💻 
