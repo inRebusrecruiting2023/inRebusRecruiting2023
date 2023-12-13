@@ -53,13 +53,11 @@ to design and provide customized digital learning solutions: Commercial and tech
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/inrebus-s.r.l./about/)
 
 # Lavora con noi
-[![Email](https://img.shields.io/badge/hrm@inrebus.it-ffa500.svg?style=for-the-badge&logo=gmail&logoColor=black)](hrm@inrebus.it)
+[Candidature](https://zinrec.intervieweb.it/gruppofos)
 
 # Posizioni aperte
-- [Sviluppatore/Sviluppatrice PHP](https://www.iprogrammatori.it/lavoro/ricerca_sviluppatore-sviluppatrice-php-torino_152316.aspx)
-- [Sviluppatore/Sviluppatrice PHP](https://zinrec.intervieweb.it/gruppofos/jobs/sviluppatoresviluppatrice-moodle-22276/it/)
-- [React Senior developer](https://it.indeed.com/job/react-senior-developer-4e0b2555c740c259)
-- [Angular Senior developer](https://it.indeed.com/job/angular-senior-developer-f9ca3dffe1bdd0d3)
-- [Software architect](https://it.indeed.com/job/architetto-software-ambito-gis-45264312e289b050)
-- [Data Analyst](https://it.indeed.com/job/data-analyst-gis-support-d5f6a0ae1db3a828)
+
+[RPGAS400 Developer](https://www.linkedin.com/jobs/view/3776934002/?alternateChannel=search&refId=JuxBJsjyWq22di529OmhVA%3D%3D&trackingId=0FFJWCbd4OeU%2Fb2RPdO0gQ%3D%3D)
+
+[DBA Mongo DB](https://www.linkedin.com/jobs/view/3775729422/?alternateChannel=search&refId=JuxBJsjyWq22di529OmhVA%3D%3D&trackingId=lbeiwpG5m8%2BHcW0lpUfKCQ%3D%3D)
 
