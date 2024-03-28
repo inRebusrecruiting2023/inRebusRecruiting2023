@@ -59,29 +59,14 @@ hrm@inrebus.it
 
 # Posizioni aperte
 
-[Android/IOS Developer](https://www.iprogrammatori.it/lavoro/ricerca_developer-android-e-ios-smart-working_155398.aspx)
+[Java Back End Developer - Trento](https://www.linkedin.com/jobs/view/3872978300/)
 
-[Junior Java-spring boot developer](https://www.linkedin.com/jobs/view/3828187123/?refId=ik67CDZqRTGIXD1EAzs70g%3D%3D&trackingId=ik67CDZqRTGIXD1EAzs70g%3D%3D)
+[Sviluppatore/Sviluppatrice React Senior](https://zinrec.intervieweb.it/gruppofos/jobs/sviluppatore-react-senior-fullremote-36568/it/)
+
+[Sviluppatore/Sviluppatrice Moodle](https://www.iprogrammatori.it/lavoro/ricerca_sviluppatore-sviluppatrice-middle-php-moodle-torin_152316.aspx)
 
 [Senior Java-Kafka Developer](https://it.indeed.com/job/senior-developer-java-microservizi-kafka-full-remote-2d1b68cac568c387)
 
-[Technical Leader](https://www.linkedin.com/jobs/view/3812198876/)
+[Sistemista Junior Middleware](https://www.iprogrammatori.it/lavoro/ricerca_sistemista-junior-middleware-milano_157351.aspx)
 
-[Junior Cloud AWS](https://employers.indeed.com/jobs/view?employerJobId=aXJpOi8vYXBpcy5pbmRlZWQuY29tL0VtcGxveWVySm9iLzVkNGQwNTdkLTJiMzQtNGQ2YS04OWMzLWI5MTFiNTU3Y2Y0OQ%3D%3D&from=%253FsortDirection%253DDESC%2526sortField%253DdatePostedOnIndeed)
-
-[Developer React Native](https://www.linkedin.com/jobs/view/3806179144/?alternateChannel=search&refId=RJb0potmdyCzckY6s%2FEkhw%3D%3D&trackingId=TNdqDsOI5lrvaqOeVRD1iw%3D%3D)
-
-[Java Back end Developer](https://www.linkedin.com/jobs/view/3811901674/?alternateChannel=search&refId=mcvwzAM7AWHOt5%2FP6AfABw%3D%3D&trackingId=NUwPoCwB%2BEBoghF4gHpjwg%3D%3D)
-
-[Tech lead senior](https://it.indeed.com/job/tech-lead-senior-eeb62cd801b34eda)
-
-[Sviluppatore/sviluppatrice Java-Oracle](https://it.indeed.com/job/sviluppatoresviluppatrice-java-oracle-ba7e43b32204d222)
-
-[Android e IOS Developer](https://employers.indeed.com/jobs/view?employerJobId=aXJpOi8vYXBpcy5pbmRlZWQuY29tL0VtcGxveWVySm9iLzExMjYwOTUxLWNiMGMtNGU2ZC05MmM2LWQ3NjQ2MmU1NGZjYw%3D%3D&from=%253FsortDirection%253DDESC%2526sortField%253DdatePostedOnIndeed&from=%3FsortDirection%3DDESC%26sortField%3DdatePostedOnIndeed)
-
-[System Engineer](https://it.indeed.com/job/system-engineer-middle-senior-09366fa0efea9bd2)
-
-[Sistemista MS Windows Exchange](https://it.indeed.com/job/sistemista-ms-windows-exchange-2fe0b1cd6e812703)
-
-[Sistemist MS Windows SCCM/INTUNE](https://it.indeed.com/job/sistemista-ms-windows-sccmintune-a996e29c52e55487)
-
+[Servicenow specialist](https://www.iprogrammatori.it/lavoro/ricerca_servicenow-specialist-full-remote-roma_157173.aspx)
