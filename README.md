@@ -53,20 +53,30 @@ to design and provide customized digital learning solutions: Commercial and tech
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/inrebus-s.r.l./about/)
 
 # Lavora con noi
+
 hrm@inrebus.it
 
+[Career](https://img.shields.io/badge/https%3A%2F%2Fzinrec.intervieweb.it%2Fgruppofos%2Fit%2Fcareer%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20)
+
+                     
 # Posizioni aperte
 
-# Posizioni aperte
+[Project Manager](https://zinrec.intervieweb.it/gruppofos/jobs/project-manager-roma-onsite-46353/it/)
 
-[Java Back End Developer - Trento](https://www.linkedin.com/jobs/view/3872978300/)
+[Software Analyst Engineer Java (Full-remote)](https://zinrec.intervieweb.it/gruppofos/jobs/software-analyst-engineer-java-full-remote-46064/it/)
 
-[Sviluppatore/Sviluppatrice React Senior](https://zinrec.intervieweb.it/gruppofos/jobs/sviluppatore-react-senior-fullremote-36568/it/)
+[Sistemista MongoDB](https://it.indeed.com/job/sistemista-mongodb-b62e30f9454691ec)
 
-[Sviluppatore/Sviluppatrice Moodle](https://www.iprogrammatori.it/lavoro/ricerca_sviluppatore-sviluppatrice-middle-php-moodle-torin_152316.aspx)
+[Software Developer Kafka](https://it.indeed.com/job/software-development-senior-kafka-f7f03408597301a0)
 
-[Senior Java-Kafka Developer](https://it.indeed.com/job/senior-developer-java-microservizi-kafka-full-remote-2d1b68cac568c387)
+[Sviluppatore Java-Cobol](https://it.indeed.com/job/sviluppatore-java-cobol-senior-72c0128c37dae436)
 
-[Sistemista Junior Middleware](https://www.iprogrammatori.it/lavoro/ricerca_sistemista-junior-middleware-milano_157351.aspx)
+[Sviluppatore Java - PL1](https://it.indeed.com/job/sviluppatore-java-pl1-senior-1ab9f4326a9670de)
 
-[Servicenow specialist](https://www.iprogrammatori.it/lavoro/ricerca_servicenow-specialist-full-remote-roma_157173.aspx)
+[Devops Engineer](https://it.indeed.com/job/devops-engineer-ea478f94b6af5d51)
+
+[Analista programmatore .Net](https://it.indeed.com/job/analista-programmatore-net-esperienza-3-e9cf275ff1f46c95)
+
+[Analista programmatore senior ERP](https://it.indeed.com/job/analista-programmatore-senior-erp-337860684aa40e41)
+
+
