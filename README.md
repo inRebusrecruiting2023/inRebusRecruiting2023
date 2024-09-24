@@ -67,14 +67,15 @@ hrm@inrebus.it
                      
 # Posizioni aperte
 
-[Data Engineer/Databricks Consultant](https://www.linkedin.com/jobs/view/4010113993/?refId=J6tz5MJIT1iS2dO3d%2BArVA%3D%3D&trackingId=J6tz5MJIT1iS2dO3d%2BArVA%3D%3D)
+[Sviluppatore/Sviluppatrice Java-Back end](https://www.linkedin.com/jobs/view/4033971491/)
 
-[Tirocinio Retribuito Java](https://www.linkedin.com/jobs/view/4008465281/)
+[Analista Programmatore Senior](https://it.indeed.com/job/analista-programmatore-senior-9b153b0b7fb2399b)
 
-[Java angular full-stack](https://it.indeed.com/job/java-angular-full-stack-developer-76cab7bc6962390a)
+[Analista programmatore Middle](https://it.indeed.com/job/analista-programmatore-middle-ee71ff0fbf2ce60a)
 
-[Analista Funzionale Junior](https://zinrec.intervieweb.it/gruppofos/jobs/analista-funzionale-junior-torino-47200/it/)
+[Specialist Security DBA Oracle](https://it.indeed.com/job/specialist-security-dba-oracle-d23e1f7e94ef04fe)
 
-[Data Architect](https://it.indeed.com/job/data-architect-66989dbdbe286bbf)
+[Senior Full-Stack Developer (Java- Angular, Ionic)](https://www.linkedin.com/jobs/view/4020394740/?refId=iHNrNA0CTECIKYc7f8NTBg%3D%3D&trackingId=iHNrNA0CTECIKYc7f8NTBg%3D%3D)
+
 
 
