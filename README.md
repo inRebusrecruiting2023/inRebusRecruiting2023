@@ -71,10 +71,15 @@ Offriamo soluzioni personalizzate per la formazione digitale:
 
 ---
 
-## 💼 Lavora con noi  
-📩 **Email**: hrm@inrebus.it  
-[![Career](https://img.shields.io/badge/Career-00A859?style=for-the-badge&logo=careerbuilder&logoColor=white)](https://zinrec.intervieweb.it/gruppofos/it/career)  
+## 💼 Posizioni Aperte
 
-### Posizioni aperte:  
-- [Kubernetes DevOps Engineer (Full Remote)](https://zinrec.intervieweb.it/gruppofos/jobs/kubernetes-devops-engineer-fullremote-59012/it/)  
-- [.Net Developer (Bologna)](https://zinrec.intervieweb.it/gruppofos/jobs/net-developer-bologna-59334/it/)  
+- [Kubernetes DevOps Engineer full-remote](https://www.iprogrammatori.it/lavoro/ricerca_kubernetes-devops-engineer-full-remote-smart-worki_162207.aspx)
+- [Configuration Manager PL/SQL (Full-Remote)](https://zinrec.intervieweb.it/gruppofos/jobs/kubernetes-devops-engineer-fullremote-59012/it/)
+- [.Net Developer Bologna](https://www.iprogrammatori.it/lavoro/ricerca_dotnet-developer-bologna-bologna_162265.aspx)
+- [AI Consultant](https://it.indeed.com/job/ai-consultant-cb3267ebc82393f9)
+- [PM Maranello 3gg in presenza](https://zinrec.intervieweb.it/gruppofos/jobs/pm-maranello-3gg-in-presenza-61852/it/)
+- [Sviluppatore Backend Liferay DXP 7.x](https://www.iprogrammatori.it/lavoro/ricerca_sviluppatore-backend-liferay-dxp-7dotx-roma_162695.aspx)
+
+📧 **Candidature**: [hrm@inrebus.it](mailto:hrm@inrebus.it)
+
+[![Career](https://img.shields.io/badge/Career-00A859?style=for-the-badge&logo=careerbuilder&logoColor=white)](https://zinrec.intervieweb.it/gruppofos/it/career)  
