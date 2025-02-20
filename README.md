@@ -73,12 +73,10 @@ Offriamo soluzioni personalizzate per la formazione digitale:
 
 ## 💼 Posizioni Aperte
 
-- [Kubernetes DevOps Engineer full-remote](https://www.iprogrammatori.it/lavoro/ricerca_kubernetes-devops-engineer-full-remote-smart-worki_162207.aspx)
-- [Configuration Manager PL/SQL (Full-Remote)](https://zinrec.intervieweb.it/gruppofos/jobs/kubernetes-devops-engineer-fullremote-59012/it/)
-- [.Net Developer Bologna](https://www.iprogrammatori.it/lavoro/ricerca_dotnet-developer-bologna-bologna_162265.aspx)
-- [AI Consultant](https://it.indeed.com/job/ai-consultant-cb3267ebc82393f9)
-- [PM Maranello 3gg in presenza](https://zinrec.intervieweb.it/gruppofos/jobs/pm-maranello-3gg-in-presenza-61852/it/)
-- [Sviluppatore Backend Liferay DXP 7.x](https://www.iprogrammatori.it/lavoro/ricerca_sviluppatore-backend-liferay-dxp-7dotx-roma_162695.aspx)
+- [.NET Developer](https://www.iprogrammatori.it/lavoro/ricerca_dotnet-developer-torino_163697.aspx)
+- [REACT JS Developer full-remote](https://it.indeed.com/job/react-js-developer-full-remote-b1e60ef1d8deeca6)
+- [Senior Cybersecurity Tester](https://it.indeed.com/job/senior-cybersecurity-tester-46537051b8fe6a49)
+- [Junior Cybersecurity Tester](https://www.iprogrammatori.it/lavoro/ricerca_tester-in-ambito-cybersecurity-torino_163469.aspx)
 
 📧 **Candidature**: [hrm@inrebus.it](mailto:hrm@inrebus.it)
 
