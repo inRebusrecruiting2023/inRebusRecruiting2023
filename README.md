@@ -73,9 +73,10 @@ Offriamo soluzioni personalizzate per la formazione digitale:
 
 ## 💼 Posizioni Aperte
 
-- [REACT JS Developer full-remote](https://it.indeed.com/job/react-js-developer-full-remote-b1e60ef1d8deeca6)
 - [Senior Power BI Developer full-remote](https://zinrec.intervieweb.it/gruppofos/jobs/senior-power-bi-developer-fullremote-68630/it/)
 - [Senior Data Engineer full-remote](https://zinrec.intervieweb.it/gruppofos/jobs/senior-power-bi-developer-fullremote-68630/it/)
+- [Sviluppatore Java esperto su OSGi full-remote](https://it.indeed.com/job/sviluppatore-java-esperto-su-osgi-full-remote-e942a78c31d05f0f)
+- [Test Manager su Milano](https://zinrec.intervieweb.it/gruppofos/jobs/test-manager-milano-69207/it/)
 
 📧 **Candidature**: [hrm@inrebus.it](mailto:hrm@inrebus.it)
 
