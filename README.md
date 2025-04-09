@@ -73,10 +73,15 @@ Offriamo soluzioni personalizzate per la formazione digitale:
 
 ## 💼 Posizioni Aperte
 
-- [Senior Power BI Developer full-remote](https://zinrec.intervieweb.it/gruppofos/jobs/senior-power-bi-developer-fullremote-68630/it/)
-- [Senior Data Engineer full-remote](https://zinrec.intervieweb.it/gruppofos/jobs/senior-power-bi-developer-fullremote-68630/it/)
-- [Sviluppatore Java esperto su OSGi full-remote](https://it.indeed.com/job/sviluppatore-java-esperto-su-osgi-full-remote-e942a78c31d05f0f)
-- [Test Manager su Milano](https://zinrec.intervieweb.it/gruppofos/jobs/test-manager-milano-69207/it/)
+[Embedded junior](https://it.indeed.com/job/ingegnere-meccatronico-junior-genova-a4089f61365546ea)
+
+[C# developer](https://it.indeed.com/job/c-developer-middle-settore-ferroviario-genova-bdb0fffa68cf4e57)
+
+[CAD Designer](https://it.indeed.com/job/progettistadisegnatoredisegnatrice-cad-junior-genova-9b78053da1568b4f)
+
+[IT Application Specialist – CRM & Billing Genova](https://it.indeed.com/job/it-application-specialist-crm-billing-genova-b6942afeeed2826b)
+
+[Sistemista Red Hat con competenze Ansible](https://it.indeed.com/job/sistemista-red-hat-con-competenze-ansible-d14f2d1e9751bfb5)
 
 📧 **Candidature**: [hrm@inrebus.it](mailto:hrm@inrebus.it)
 
