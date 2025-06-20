@@ -73,15 +73,11 @@ Offriamo soluzioni personalizzate per la formazione digitale:
 
 ## 💼 Posizioni Aperte
 
-[Embedded junior](https://it.indeed.com/job/ingegnere-meccatronico-junior-genova-a4089f61365546ea)
+[Senior .Net Developer Full-remote](https://it.indeed.com/job/senior-net-developer-full-remote-36405ed8f7757dca)
 
-[C# developer](https://it.indeed.com/job/c-developer-middle-settore-ferroviario-genova-bdb0fffa68cf4e57)
+[Java BE Developer full-remote italy based](https://zinrec.intervieweb.it/gruppofos/jobs/java-be-developer-fullremote-77514/it/)
 
-[CAD Designer](https://it.indeed.com/job/progettistadisegnatoredisegnatrice-cad-junior-genova-9b78053da1568b4f)
-
-[IT Application Specialist – CRM & Billing Genova](https://it.indeed.com/job/it-application-specialist-crm-billing-genova-b6942afeeed2826b)
-
-[Sistemista Red Hat con competenze Ansible](https://it.indeed.com/job/sistemista-red-hat-con-competenze-ansible-d14f2d1e9751bfb5)
+[Analista Funzionale & ETRM Specialist-Energy Trading and Risk Management Specialist](https://it.indeed.com/job/analista-funzionale-etrm-specialist-energy-trading-and-risk-management-specialist-2dc6732380b4f341)
 
 📧 **Candidature**: [hrm@inrebus.it](mailto:hrm@inrebus.it)
 
