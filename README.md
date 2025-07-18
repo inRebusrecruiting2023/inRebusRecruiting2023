@@ -73,9 +73,11 @@ Offriamo soluzioni personalizzate per la formazione digitale:
 
 ## 💼 Posizioni Aperte
 
-[Moodle Developer Roma, Ibrido](https://zinrec.intervieweb.it/gruppofos/jobs/moodle-developer-roma-ibrido-81199/it/)
+[Senior Front-end Angular full-remote](https://it.indeed.com/job/senior-front-end-developer-full-remote-italy-2f2ba99fbfc06af9)
 
-[Reporting Specialist BI Torino](https://zinrec.intervieweb.it/gruppofos/jobs/reporting-specialist-bi-torino-80284/it/)
+[Junior Salesforce developer Genova](https://it.indeed.com/job/junior-salesforce-developer-genova-60fe8b80f9c497f9)
+
+[Moodle Developer Roma, Ibrido](https://zinrec.intervieweb.it/gruppofos/jobs/moodle-developer-roma-ibrido-81199/it/)
 
 [Analista Funzionale & ETRM Specialist-Energy Trading and Risk Management Specialist](https://it.indeed.com/job/analista-funzionale-etrm-specialist-energy-trading-and-risk-management-specialist-2dc6732380b4f341)
 
