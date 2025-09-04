@@ -73,11 +73,16 @@ Offriamo soluzioni personalizzate per la formazione digitale:
 
 ## 💼 Posizioni Aperte
 
-[Junior Salesforce developer Genova](https://it.indeed.com/job/junior-salesforce-developer-genova-60fe8b80f9c497f9)
+> 🔹 [Junior Salesforce Developer – Genova](https://it.indeed.com/job/junior-salesforce-developer-genova-60fe8b80f9c497f9)
+> 
+> 🔹 [Junior Full-Stack Developer (Genova)](https://it.indeed.com/job/junior-full-stack-developer-genova-398906ff9636b5a5)
+> 
+> 🔹 [Analista programmatore Angular Full-remote](https://it.indeed.com/job/analista-programmatoreprogrammatrice-angular-full-remote-c615fb2f8d5f45b9)
+> 
+> 🔹 [Sistemista TLC (Milano)](https://it.indeed.com/job/sistemista-tlc-milano-a7c0e710508c80eb)
+>
+> 🔹 [Network Engineer - Piossasco TO](https://zinrec.intervieweb.it/gruppofos/jobs/network-engineer-piossasco-to-86639/it/)
 
-[Moodle Developer Roma, Ibrido](https://zinrec.intervieweb.it/gruppofos/jobs/moodle-developer-roma-ibrido-81199/it/)
-
-[Analista Funzionale & ETRM Specialist-Energy Trading and Risk Management Specialist](https://it.indeed.com/job/analista-funzionale-etrm-specialist-energy-trading-and-risk-management-specialist-2dc6732380b4f341)
 
 
 📧 **Candidature**: [hrm@inrebus.it](mailto:hrm@inrebus.it)
