@@ -73,17 +73,22 @@ Offriamo soluzioni personalizzate per la formazione digitale:
 
 ## 💼 Posizioni Aperte
 
-> 🔹 [Full Stack Developer Java-VueJS Genova](https://it.indeed.com/viewjob?jk=1fd58d5ff3533176&from=shareddesktop_copy)
+> 🔹 [Tirocinante extracurricolare Mendix developer-Genova](https://zinrec.intervieweb.it/gruppofos/jobs/tirocinante-extracurricolare-mendix-developer-genova-91122/it/)
+>
+> 🔹 [Business Analyst-Genova](https://it.indeed.com/job/business-analyst-genova-28806224e7d6daac)
+>
+> 🔹 [Ingegnere Navale Junior – Sviluppo Software e Progettazione-Genova](https://zinrec.intervieweb.it/gruppofos/jobs/ingegnere-navale-junior-sviluppo-software-e-progettazione-genova-91127/it/)
 >
 > 🔹 [Azure Architect full-remote](https://it.indeed.com/job/azure-architect-full-remote-4bb28528e7225bbd)
-> 
-> 🔹 [Junior Full-Stack Developer (Genova)](https://it.indeed.com/job/junior-full-stack-developer-genova-398906ff9636b5a5)
-> 
-> 🔹 [Analista programmatore Angular Full-remote](https://it.indeed.com/job/analista-programmatoreprogrammatrice-angular-full-remote-c615fb2f8d5f45b9)
 > 
 > 🔹 [System & Network Support Engineer Genova + Trasferte](https://zinrec.intervieweb.it/gruppofos/jobs/system-network-support-engineer-genova-trasferte-88234/it/)
 >
 > 🔹 [Network Engineer - Piossasco TO](https://zinrec.intervieweb.it/gruppofos/jobs/network-engineer-piossasco-to-86639/it/)
+>
+> 🔹 [Senior C# developer Genova](https://it.indeed.com/job/senior-c-developer-genova-83bb38a923db4d7f)
+> 
+> 🔹 [Junior C# Developer Genova](https://it.indeed.com/job/junior-c-developer-genova-50a7d40d2e7f3e52)
+
 
 
 
