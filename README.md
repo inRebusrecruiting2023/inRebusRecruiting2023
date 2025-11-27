@@ -73,22 +73,21 @@ Offriamo soluzioni personalizzate per la formazione digitale:
 
 ## 💼 Posizioni Aperte
 
-> 🔹 [Tirocinante extracurricolare Mendix developer-Genova](https://zinrec.intervieweb.it/gruppofos/jobs/tirocinante-extracurricolare-mendix-developer-genova-91122/it/)
+>🔹 [Sviluppatore di test automatici Genova](https://it.indeed.com/job/sviluppatore-di-test-automatici-genova-63895ebbea905dae)
 >
-> 🔹 [Business Analyst-Genova](https://it.indeed.com/job/business-analyst-genova-28806224e7d6daac)
+>🔹 [Full-Stack Developer Torino](https://zinrec.intervieweb.it/gruppofos/jobs/fullstack-developer-torino-96354/it/)
 >
-> 🔹 [Ingegnere Navale Junior – Sviluppo Software e Progettazione-Genova](https://zinrec.intervieweb.it/gruppofos/jobs/ingegnere-navale-junior-sviluppo-software-e-progettazione-genova-91127/it/)
+>🔹 [Analista funzionale Torino](https://zinrec.intervieweb.it/gruppofos/jobs/analista-funzionale-torino-96138/it/)
 >
-> 🔹 [Azure Architect full-remote](https://it.indeed.com/job/azure-architect-full-remote-4bb28528e7225bbd)
+>🔹 [Junior Software Tester Torino](https://it.indeed.com/job/junior-software-tester-torino-6ce81f542787b395)
+>
+>🔹 [Junior Help Desk part-time 4h Torino](https://it.indeed.com/job/junior-help-desk-part-time-4h-torino-5ddb1864340055b1)
+>
+>🔹 [Business Analyst-Genova](https://it.indeed.com/job/business-analyst-genova-28806224e7d6daac)
+>
+>🔹 [Ingegnere Navale Junior – Sviluppo Software e Progettazione-Genova](https://zinrec.intervieweb.it/gruppofos/jobs/ingegnere-navale-junior-sviluppo-software-e-progettazione-genova-91127/it/)
 > 
-> 🔹 [System & Network Support Engineer Genova + Trasferte](https://zinrec.intervieweb.it/gruppofos/jobs/system-network-support-engineer-genova-trasferte-88234/it/)
->
-> 🔹 [Network Engineer - Piossasco TO](https://zinrec.intervieweb.it/gruppofos/jobs/network-engineer-piossasco-to-86639/it/)
->
-> 🔹 [Senior C# developer Genova](https://it.indeed.com/job/senior-c-developer-genova-83bb38a923db4d7f)
-> 
-> 🔹 [Junior C# Developer Genova](https://it.indeed.com/job/junior-c-developer-genova-50a7d40d2e7f3e52)
-
+>🔹 [Junior C# Developer Genova](https://it.indeed.com/job/junior-c-developer-genova-50a7d40d2e7f3e52)
 
 
 
