@@ -71,23 +71,20 @@ Offriamo soluzioni personalizzate per la formazione digitale:
 
 ---
 
-## 💼 Posizioni Aperte
+## 💼 Open Positions
 
->🔹 [Sviluppatore di test automatici Genova](https://it.indeed.com/job/sviluppatore-di-test-automatici-genova-63895ebbea905dae)
+>🔹 [Analista Funzionale – FPAD & VOP](https://it.indeed.com/job/analista-funzionale-fpad-vop-16c510c8a8390b17))
 >
->🔹 [Full-Stack Developer Torino](https://zinrec.intervieweb.it/gruppofos/jobs/fullstack-developer-torino-96354/it/)
+>🔹 [Analista Funzionale – SEPA Services](https://it.indeed.com/job/analista-funzionale-sepa-services-6e215e86c6fde3ac))
 >
->🔹 [Analista funzionale Torino](https://zinrec.intervieweb.it/gruppofos/jobs/analista-funzionale-torino-96138/it/)
+>🔹 [Sviluppatore di test automatici-Genova](https://it.indeed.com/job/sviluppatore-di-test-automatici-genova-63895ebbea905dae))
 >
->🔹 [Junior Software Tester Torino](https://it.indeed.com/job/junior-software-tester-torino-6ce81f542787b395)
+>🔹 [Senior Microsoft System Administrator- Piossasco](https://it.indeed.com/job/senior-microsoft-system-administrator-piossasco-1adcef4b84f1db5d)
 >
->🔹 [Junior Help Desk part-time 4h Torino](https://it.indeed.com/job/junior-help-desk-part-time-4h-torino-5ddb1864340055b1)
+>🔹 [Java-React Developer (Genova)](https://it.indeed.com/job/java-react-developer-genova-33adc82b1764a441)]
 >
->🔹 [Business Analyst-Genova](https://it.indeed.com/job/business-analyst-genova-28806224e7d6daac)
->
->🔹 [Ingegnere Navale Junior – Sviluppo Software e Progettazione-Genova](https://zinrec.intervieweb.it/gruppofos/jobs/ingegnere-navale-junior-sviluppo-software-e-progettazione-genova-91127/it/)
-> 
->🔹 [Junior C# Developer Genova](https://it.indeed.com/job/junior-c-developer-genova-50a7d40d2e7f3e52)
+>🔹 [Analista funzionale Genova](https://it.indeed.com/job/business-analyst-genova-28806224e7d6daac)
+
 
 
 
