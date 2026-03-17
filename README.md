@@ -73,17 +73,17 @@ Offriamo soluzioni personalizzate per la formazione digitale:
 
 ## 💼 Open Positions
 
->🔹 [Analista Funzionale – FPAD & VOP](https://it.indeed.com/job/analista-funzionale-fpad-vop-16c510c8a8390b17))
+## 💼 Open Positions
+
+>🔹 [EMBEDDED Developer (Genova)](https://it.indeed.com/job/embedded-developer-genova-b2d581c9d05af0f9)
 >
->🔹 [Analista Funzionale – SEPA Services](https://it.indeed.com/job/analista-funzionale-sepa-services-6e215e86c6fde3ac))
+>🔹 [.NET/C# Developer (Genova)](https://it.indeed.com/job/netc-developer-genova-ad1a2e541a0d90e0)
 >
 >🔹 [Sviluppatore di test automatici-Genova](https://it.indeed.com/job/sviluppatore-di-test-automatici-genova-63895ebbea905dae))
 >
 >🔹 [Senior Microsoft System Administrator- Piossasco](https://it.indeed.com/job/senior-microsoft-system-administrator-piossasco-1adcef4b84f1db5d)
 >
 >🔹 [Java-React Developer (Genova)](https://it.indeed.com/job/java-react-developer-genova-33adc82b1764a441)]
->
->🔹 [Analista funzionale Genova](https://it.indeed.com/job/business-analyst-genova-28806224e7d6daac)
 
 
 
