@@ -41,6 +41,11 @@ Audensiel is a global digital transformation partner specializing in high-tech a
 [![Join the Team](https://img.shields.io/badge/Join_the_Team!-Audensiel-FF0000?style=for-the-badge&logo=rocket&logoColor=white)](https://www.audensiel.com/jobs)
 ---
 
+### 👥 Team Members on GitHub
+
+| Avatar | Name | GitHub Profile | LinkedIn |
+| :---: | :--- | :--- | :--- |
+| <img src="https://github.com/GiorgioAntonelli94.png" width="40" style="border-radius:50%"> | **Giorgio Antonelli** | [@GiorgioAntonelli94](https://github.com/GiorgioAntonelli94) | [Profile](https://www.linkedin.com/in/giorgio-antonelli-1b9152245/) |
 
 ---
 
@@ -54,8 +59,4 @@ Audensiel is a global digital transformation partner specializing in high-tech a
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Service Manager** <br> `IT Support` | 📍 Genova | [**Apply Now**](https://it.indeed.com/job/service-manager-ambito-it-support-genova-f74a806d277f10a8) |
 
 
----
-
-### Contatti Diretti
-📧 **Candidature Spontanee:** [hrm@inrebus.it](mailto:hrm@inrebus.it)
 
