@@ -1,94 +1,62 @@
-![InRebus Technologies](https://github.com/InRebusRecruiting2023/inRebusRecruiting2023/blob/5f1e831bb58dacf79f14cf18beb04d2bdfe0eae4/inRebus_copertina_linkedin%20(002).png) 
-
 # inRebus Technologies srl | Società del Gruppo FOS 
-💻 **Servizi IT e consulenza IT**  
-🏢 **Torino, TO**
+
+![InRebus Technologies](https://github.com/GiorgioAntonelli94/GiorgioAntonelli94/blob/7017faa9712a4348b04f3e7119829ae204ac30fc/loghi.jpg)
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&center=true&vCenter=true&width=600&repeat=true&color=FFA500&lines=%5BRE%5DSHAPING+YOUR+DIGITAL+WORLD;SPICY+DIGITAL+LEARNING;SOFTWARE+FACTORY+%26+IT+CONSULTING" alt="Typing SVG" />
+</p>
+
+---
+##  🟩⬜🟥 About inRebus Technologies (FOS Group) 🟩⬜🟥
+
+Founded in Turin in 2003, **inRebus Technologies** is a software house and IT consulting company.  
+Since 2020, we’ve been part of **FOS Group S.p.A.**, expanding our expertise in digital and public administration fields.
+
+## 💡 Offered Services
+
+🔹 [**Software Factory**](https://www.inrebus.it/)
+
+🔹 [**Digital Learning**](https://www.inrebus.education/)
+
+[![Job Board ](https://img.shields.io/badge/Career-Recruiting%20Area-00A859?style=for-the-badge&logo=careerbuilder&logoColor=white)](https://www.linkedin.com/pulse/bacheca-annunci-inrebus-technologies-inrebus-s-r-l-/)
+
+[![Indeed](https://img.shields.io/badge/Indeed-Inrebus-003A9B?style=for-the-badge&logo=indeed&logoColor=white)](https://it.indeed.com/cmp/Inrebus?campaignid=mobvjcmp&from=mobviewjob&tk=1jmo5d625hn21806&fromjk=ddcafb0519b5f80d&text=Ciao%20Giorgio%20ti%20contatto%20da%20GitHub)
+---
+
+## 🟩⬜🟥 About FOS Group 🟩⬜🟥
+
+Gruppo FOS is an innovative technology hub dedicated to Italian polytechnic excellence with a global reach. With over 25 years of experience in ICT, the Group integrates specialized skills across Automation, Telecommunications, and Engineering
+
+[![Work with Us](https://img.shields.io/badge/Career-Recruiting%20Area-00A859?style=for-the-badge&logo=careerbuilder&logoColor=white)](https://zinrec.intervieweb.it/gruppofos/it/career)
+
+[![Join the Team](https://img.shields.io/badge/Join_the_Team!-Gruppo_FOS-FF0000?style=for-the-badge&logo=rocket&logoColor=white)](https://www.gruppofos.it/lavora-noi/)
+
+[![Indeed](https://img.shields.io/badge/Indeed-Gruppo_FOS-003A9B?style=for-the-badge&logo=indeed&logoColor=white)](https://it.indeed.com/cmp/Gruppo-Fos)
+
+
+## 🌍🟦⬜🟥🌎 About Audensiel 🌎🟦⬜🟥🌍
+
+Audensiel is a global digital transformation partner specializing in high-tech and business consulting across sectors like Banking, Healthcare, and Industry. They deliver end-to-end Digital and Cloud/DevOps solutions using Agile methodologies, while leveraging Data, AI, and IoT to build complex interconnected systems. Their expertise extends to robust Cybersecurity auditing and strategic IT governance. They are currently hiring to support their rapid international growth.
+
+[![Join the Team](https://img.shields.io/badge/Join_the_Team!-Audensiel-FF0000?style=for-the-badge&logo=rocket&logoColor=white)](https://www.audensiel.com/jobs)
+---
+
 
 ---
 
-## 🌍 [RE]SHAPING YOUR DIGITAL WORLD | SPICY DIGITAL LEARNING OUTSIDE THE BOX
+## 💼 Open Positions Dashboard
+Siamo alla ricerca di talenti pronti a unirsi al nostro team. Esplora le posizioni attive:
+
+| Ruolo | Location | Azione |
+| :--- | :---: | :--- |
+| **Embedded Developer** | 📍 Genova | [Dettagli & Candidatura](https://it.indeed.com/job/embedded-developer-genova-b2d581c9d05af0f9) |
+| **.NET/C# Developer** | 📍 Genova | [Dettagli & Candidatura](https://it.indeed.com/job/netc-developer-genova-ad1a2e541a0d90e0) |
+| **Sviluppatore Test Automatici** | 📍 Genova | [Dettagli & Candidatura](https://it.indeed.com/job/sviluppatore-di-test-automatici-genova-63895ebbea905dae) |
+| **Senior Microsoft SysAdmin** | 📍 Piossasco | [Dettagli & Candidatura](https://it.indeed.com/job/senior-microsoft-system-administrator-piossasco-1adcef4b84f1db5d) |
+| **Java-React Developer** | 📍 Genova | [Dettagli & Candidatura](https://it.indeed.com/job/java-react-developer-genova-33adc82b1764a441) |
 
 ---
 
-## 👥 Chi siamo  
-Fondata a Torino nel 2003, **inRebus Technologies** è una software house e consulting company con un’esperienza che risale ai primi anni '90. L'azienda si distingue per:  
-- **Sviluppo software** e **prodotti di assistenza remota (SKITE)**.  
-- **Consulenza IT** attraverso personale altamente qualificato presso i nostri clienti.  
+### Contatti Diretti
+📧 **Candidature Spontanee:** [hrm@inrebus.it](mailto:hrm@inrebus.it)
 
-### 📚 Un nuovo approccio alla formazione digitale  
-Nel 2013 nasce **inRebus Digital Learning**, una business line dedicata alla formazione digitale. Questo progetto, inizialmente una scommessa, si è trasformato in una realtà in continua evoluzione.  
-
-Nel dicembre 2020, inRebus Technologies è entrata a far parte di **FOS S.p.A.**, PMI genovese quotata al segmento Euronext Growth Milan di Borsa Italiana S.p.A., attiva nella consulenza e ricerca tecnologica per grandi gruppi industriali e pubblica amministrazione.  
-
----
-
-## 🖥️ SOFTWARE FACTORY  
-Progettiamo e sviluppiamo soluzioni digitali data-driven:  
-- **Architettura e progettazione software**  
-- **Responsive Web App e Applicazioni mobile**  
-- **CMS avanzati e integrazioni CRM**  
-- **Assistenza tecnica remota**  
-- **Soluzioni ERP, Data Warehouse e dashboard di Business Intelligence**  
-
-### Linguaggi e tecnologie:  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![Ionic Framework](https://img.shields.io/badge/Ionic_Framework-3880FF?style=for-the-badge&logo=ionic&logoColor=white)  
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  
-
----
-
-## 📖 DIGITAL LEARNING  
-Offriamo soluzioni personalizzate per la formazione digitale:  
-- Formazione commerciale e tecnica  
-- Formazione obbligatoria aziendale  
-- Supporto per il lancio di prodotti  
-- Videolezioni, teaser e video interattivi  
-- Progetti blended e gamification  
-- Sviluppo LMS su misura  
-
-### Strumenti e tecnologie:  
-![Articulate Storyline](https://img.shields.io/badge/Articulate%20Storyline-360-blue)  
-![iSpring Designer](https://img.shields.io/badge/iSpring%20Designer-11-orange)  
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)  
-![Moodle](https://img.shields.io/badge/Moodle-FF9900?style=for-the-badge&logo=moodle&logoColor=white)  
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)  
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)  
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)  
-
----
-
-## 🌐 Seguici su  
-[![Website](https://img.shields.io/badge/Website-ffa500.svg?style=for-the-badge&logo=readthedocs&logoColor=black)](https://www.inrebus.it/)  
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/inrebus-s.r.l./about/)  
-
----
-
-## 💼 Open Positions
-
-## 💼 Open Positions
-
->🔹 [EMBEDDED Developer (Genova)](https://it.indeed.com/job/embedded-developer-genova-b2d581c9d05af0f9)
->
->🔹 [.NET/C# Developer (Genova)](https://it.indeed.com/job/netc-developer-genova-ad1a2e541a0d90e0)
->
->🔹 [Sviluppatore di test automatici-Genova](https://it.indeed.com/job/sviluppatore-di-test-automatici-genova-63895ebbea905dae))
->
->🔹 [Senior Microsoft System Administrator- Piossasco](https://it.indeed.com/job/senior-microsoft-system-administrator-piossasco-1adcef4b84f1db5d)
->
->🔹 [Java-React Developer (Genova)](https://it.indeed.com/job/java-react-developer-genova-33adc82b1764a441)]
-
-
-
-
-
-📧 **Candidature**: [hrm@inrebus.it](mailto:hrm@inrebus.it)
-
-[![Career](https://img.shields.io/badge/Career-00A859?style=for-the-badge&logo=careerbuilder&logoColor=white)](https://zinrec.intervieweb.it/gruppofos/it/career)  
