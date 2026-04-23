@@ -1,4 +1,4 @@
-# inRebus Technologies srl | Società del Gruppo FOS 
+
 
 ![InRebus Technologies](https://github.com/GiorgioAntonelli94/GiorgioAntonelli94/blob/7017faa9712a4348b04f3e7119829ae204ac30fc/loghi.jpg)
 
@@ -44,16 +44,15 @@ Audensiel is a global digital transformation partner specializing in high-tech a
 
 ---
 
-## 💼 Open Positions Dashboard
-Siamo alla ricerca di talenti pronti a unirsi al nostro team. Esplora le posizioni attive:
 
-| Ruolo | Location | Azione |
-| :--- | :---: | :--- |
-| **Embedded Developer** | 📍 Genova | [Dettagli & Candidatura](https://it.indeed.com/job/embedded-developer-genova-b2d581c9d05af0f9) |
-| **.NET/C# Developer** | 📍 Genova | [Dettagli & Candidatura](https://it.indeed.com/job/netc-developer-genova-ad1a2e541a0d90e0) |
-| **Sviluppatore Test Automatici** | 📍 Genova | [Dettagli & Candidatura](https://it.indeed.com/job/sviluppatore-di-test-automatici-genova-63895ebbea905dae) |
-| **Senior Microsoft SysAdmin** | 📍 Piossasco | [Dettagli & Candidatura](https://it.indeed.com/job/senior-microsoft-system-administrator-piossasco-1adcef4b84f1db5d) |
-| **Java-React Developer** | 📍 Genova | [Dettagli & Candidatura](https://it.indeed.com/job/java-react-developer-genova-33adc82b1764a441) |
+## 💼 Open Positions Dashboard
+
+| Status | Role | Location | Action |
+| :--- | :--- | :--- | :--- |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Full-stack Developer** <br> `.Net/C#` • `Angular` | 📍 Torino | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/fullstack-developer-netc-angular-torino-122741/it/) |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Analista Programmatore** <br> `Mainframe` • `CICS` • `COBOL` | 📍 Torino | [**Apply Now**](https://it.indeed.com/job/analista-programmatore-mainframe-cics-cobol-freelance-torino-fa038c173c7476b1) |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Service Manager** <br> `IT Support` | 📍 Genova | [**Apply Now**](https://it.indeed.com/job/service-manager-ambito-it-support-genova-f74a806d277f10a8) |
+
 
 ---
 
