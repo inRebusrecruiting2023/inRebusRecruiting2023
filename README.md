@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&center=true&vCenter=true&width=600&repeat=true&color=FFA500&lines=%5BRE%5DSHAPING+YOUR+DIGITAL+WORLD;SPICY+DIGITAL+LEARNING;SOFTWARE+FACTORY+%26+IT+CONSULTING" alt="Typing SVG" />
 </p>
 
----
 ##  🟩⬜🟥 About inRebus Technologies (FOS Group) 🟩⬜🟥
 
 Founded in Turin in 2003, **inRebus Technologies** is a software house and IT consulting company.  
@@ -21,6 +20,8 @@ Since 2020, we’ve been part of **FOS Group S.p.A.**, expanding our expertise i
 [![Job Board ](https://img.shields.io/badge/Career-Recruiting%20Area-00A859?style=for-the-badge&logo=careerbuilder&logoColor=white)](https://www.linkedin.com/pulse/bacheca-annunci-inrebus-technologies-inrebus-s-r-l-/)
 
 [![Indeed](https://img.shields.io/badge/Indeed-Inrebus-003A9B?style=for-the-badge&logo=indeed&logoColor=white)](https://it.indeed.com/cmp/Inrebus?campaignid=mobvjcmp&from=mobviewjob&tk=1jmo5d625hn21806&fromjk=ddcafb0519b5f80d&text=Ciao%20Giorgio%20ti%20contatto%20da%20GitHub)
+
+[![Instagram](https://img.shields.io/badge/Instagram-InRebus_Technologies-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/inrebustechnologies_gruppofos/)
 
 ## Newsletter
 
@@ -39,20 +40,16 @@ Gruppo FOS is an innovative technology hub dedicated to Italian polytechnic exce
 
 [![Indeed](https://img.shields.io/badge/Indeed-Gruppo_FOS-003A9B?style=for-the-badge&logo=indeed&logoColor=white)](https://it.indeed.com/cmp/Gruppo-Fos)
 
+[![Instagram](https://img.shields.io/badge/Instagram-Gruppo_FOS-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gruppofos/)
+
 
 ## 🌍🟦⬜🟥🌎 About Audensiel 🌎🟦⬜🟥🌍
 
 Audensiel is a global digital transformation partner specializing in high-tech and business consulting across sectors like Banking, Healthcare, and Industry. They deliver end-to-end Digital and Cloud/DevOps solutions using Agile methodologies, while leveraging Data, AI, and IoT to build complex interconnected systems. Their expertise extends to robust Cybersecurity auditing and strategic IT governance. They are currently hiring to support their rapid international growth.
 
 [![Join the Team](https://img.shields.io/badge/Join_the_Team!-Audensiel-FF0000?style=for-the-badge&logo=rocket&logoColor=white)](https://www.audensiel.com/jobs)
----
 
-### 👥 Team Members on GitHub
-
-| Avatar | Name | GitHub Profile | LinkedIn |
-| :---: | :--- | :--- | :--- |
-| <img src="https://github.com/GiorgioAntonelli94.png" width="40" style="border-radius:50%"> | **Giorgio Antonelli** | [@GiorgioAntonelli94](https://github.com/GiorgioAntonelli94) | [Profile](https://www.linkedin.com/in/giorgio-antonelli-1b9152245/) |
-
+[![Instagram](https://img.shields.io/badge/Instagram-Audensiel-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/audensiel/)
 ---
 
 
