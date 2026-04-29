@@ -6,6 +6,29 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&center=true&vCenter=true&width=600&repeat=true&color=FFA500&lines=%5BRE%5DSHAPING+YOUR+DIGITAL+WORLD;SPICY+DIGITAL+LEARNING;SOFTWARE+FACTORY+%26+IT+CONSULTING" alt="Typing SVG" />
 </p>
 
+<h3 align="center">📫 Contacts & Careers</h3>
+
+<p align="center">
+  <a href="mailto:hrm@inrebus.it">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/company/inrebus-s.r.l./">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/inrebustechnologies_gruppofos/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/pulse/bacheca-annunci-inrebus-technologies-inrebus-s-r-l-/">
+    <img src="https://img.shields.io/badge/Career-Recruiting%20Area-00A859?style=for-the-badge&logo=careerbuilder&logoColor=white" alt="Job Board" />
+  </a>
+  <a href="https://it.indeed.com/cmp/Inrebus?campaignid=mobvjcmp&from=mobviewjob&tk=1jmo5d625hn21806&fromjk=ddcafb0519b5f80d">
+    <img src="https://img.shields.io/badge/Indeed-Inrebus-003A9B?style=for-the-badge&logo=indeed&logoColor=white" alt="Indeed" />
+  </a>
+</p>
+
 ##  🟩⬜🟥 About inRebus Technologies (FOS Group) 🟩⬜🟥
 
 Founded in Turin in 2003, **inRebus Technologies** is a software house and IT consulting company.  
@@ -17,11 +40,9 @@ Since 2020, we’ve been part of **FOS Group S.p.A.**, expanding our expertise i
 
 🔹 [**Digital Learning**](https://www.inrebus.education/)
 
-[![Job Board ](https://img.shields.io/badge/Career-Recruiting%20Area-00A859?style=for-the-badge&logo=careerbuilder&logoColor=white)](https://www.linkedin.com/pulse/bacheca-annunci-inrebus-technologies-inrebus-s-r-l-/)
 
-[![Indeed](https://img.shields.io/badge/Indeed-Inrebus-003A9B?style=for-the-badge&logo=indeed&logoColor=white)](https://it.indeed.com/cmp/Inrebus?campaignid=mobvjcmp&from=mobviewjob&tk=1jmo5d625hn21806&fromjk=ddcafb0519b5f80d&text=Ciao%20Giorgio%20ti%20contatto%20da%20GitHub)
 
-[![Instagram](https://img.shields.io/badge/Instagram-InRebus_Technologies-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/inrebustechnologies_gruppofos/)
+
 
 ## Newsletter
 
