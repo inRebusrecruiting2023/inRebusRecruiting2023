@@ -24,9 +24,6 @@
   <a href="https://www.linkedin.com/pulse/bacheca-annunci-inrebus-technologies-inrebus-s-r-l-/">
     <img src="https://img.shields.io/badge/Career-Recruiting%20Area-00A859?style=for-the-badge&logo=careerbuilder&logoColor=white" alt="Job Board" />
   </a>
-  <a href="https://it.indeed.com/cmp/Inrebus?campaignid=mobvjcmp&from=mobviewjob&tk=1jmo5d625hn21806&fromjk=ddcafb0519b5f80d">
-    <img src="https://img.shields.io/badge/Indeed-Inrebus-003A9B?style=for-the-badge&logo=indeed&logoColor=white" alt="Indeed" />
-  </a>
 </p>
 
 ##  🟩⬜🟥 About inRebus Technologies (FOS Group) 🟩⬜🟥
@@ -78,9 +75,12 @@ Audensiel is a global digital transformation partner specializing in high-tech a
 
 | Status | Role | Location | Action |
 | :--- | :--- | :--- | :--- |
-| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Full-stack Developer** <br> `.Net/C#` • `Angular` | 📍 Torino | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/fullstack-developer-netc-angular-torino-122741/it/) |
-| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Analista Programmatore** <br> `Mainframe` • `CICS` • `COBOL` | 📍 Torino | [**Apply Now**](https://it.indeed.com/job/analista-programmatore-mainframe-cics-cobol-freelance-torino-fa038c173c7476b1) |
-| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Service Manager** <br> `IT Support` | 📍 Genova | [**Apply Now**](https://it.indeed.com/job/service-manager-ambito-it-support-genova-f74a806d277f10a8) |
-
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **.Net/C# Developer** <br> `Backend` • `Software Engineering` | 📍 Genova | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/netc-developer-genova-124236/it/) |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Junior SOC Analyst** <br> `Cybersecurity` • `Security Operations` | 📍 Roma | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/junior-soc-analyst-roma-137579/it/) |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Help Desk / Supporto PDL** <br> `IT Support` • `Workplace Services` | 📍 Roma | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/help-desk-supporto-pdl-roma-135330/it/) |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Sistemista VMware** <br> `System IT` • `Infrastructure` | 📍 Roma | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/sistemista-windows-sharepoint-roma-138776/it/) |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **System Engineer** <br> `Engineering` • `Infrastructure` | 📍 Roma | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/senior-system-engineer-roma-138248/it/) |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Senior Network Security** <br> `Cybersecurity` • `Networking` | 📍 Roma | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/senior-network-security-roma-138249/it/) |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Security Architect** <br> `Cybersecurity` • `Architecture` | 📍 Roma | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/senior-security-architect-roma-138250/it/) |
 
 
